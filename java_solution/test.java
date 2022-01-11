@@ -1,4 +1,5 @@
-package java;
+package java_solution;
+
 class test {
   public static void main(String[] args) {
     ThreadTest t = new ThreadTest();
